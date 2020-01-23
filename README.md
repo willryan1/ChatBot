@@ -8,8 +8,7 @@ working on figuring out the linux server issues with uploading a Django app.
 ## Example
 > Shows basic front end design
 
-![ScreenShot](screenshots/chat_bot_main.jpg)
-
+![ScreenShot](screenshots/chat_bot_main.jpg?raw=true)
 
 ### Requirements
 
