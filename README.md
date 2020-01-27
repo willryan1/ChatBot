@@ -35,9 +35,9 @@ python manage.py train
 ### How it works
 
 I used the ChatterBot module to handle a great deal of the AI. This bot used training data
-to simulation a conversation and learn from from how others speak. It uses a search algorithm
-as well as a fitness algorithm to check how correct an answer is. If it cannot find a good result
-it will say "I am sorry, but I do not understand."
+to simulate a conversation and learn from from how others speak. It uses a search algorithm
+to search for possible responses as well as a fitness algorithm to check how correct an answer 
+is. If it cannot find a good result it will say "I am sorry, but I do not understand."
 
 ### Backend
 
