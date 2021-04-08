@@ -5,7 +5,7 @@ chardet==3.0.4
 ChatterBot==1.0.5
 chatterbot-corpus==1.2.0
 cymem==2.0.3
-Django==3.0.3
+Django==3.0.14
 idna==2.8
 mathparse==0.1.2
 murmurhash==1.0.2
